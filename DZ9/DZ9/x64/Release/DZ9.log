@@ -1,0 +1,145 @@
+﻿  DZ9.cpp
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(26,36): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(26,28): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(38,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(43,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(43,31): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(44,31): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(45,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(45,31): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(46,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(46,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(56,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(56,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(63,63): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(63,30): warning C4244: аргумент: преобразование "mysqlx::abi2::r0::col_count_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(64,30): warning C4244: аргумент: преобразование "mysqlx::abi2::r0::col_count_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(70,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(76,45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(76,32): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(77,32): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(78,45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(78,32): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(79,51): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(79,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(90,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(90,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(97,66): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(97,31): warning C4244: аргумент: преобразование "mysqlx::abi2::r0::col_count_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(98,31): warning C4244: аргумент: преобразование "mysqlx::abi2::r0::col_count_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(105,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(105,28): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(106,65): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(106,30): warning C4244: аргумент: преобразование "mysqlx::abi2::r0::col_count_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(130,19): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\bulat\source\repos\DZ9\DZ9\DZ9.cpp(131,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Создание кода
+  1 of 659 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  DZ9.vcxproj -> C:\Users\bulat\source\repos\DZ9\x64\Release\DZ9.exe
